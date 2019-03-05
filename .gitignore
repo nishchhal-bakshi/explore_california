@@ -1,5 +1,6 @@
 #Comment
 temp.txt
+temp2.txt
 *.zip
 log/*.log
 log/*.log.[0-9]
